@@ -21,14 +21,12 @@ Zuno is based on Z80SBC64, but redesigned so to fit in an acrylic Arduino Mega e
 ![zuno_annotated](zuno_r03_annotated_topview.jpg)
 
 ### Functions
-Refer to the Z80SBC64 function section for a description of the Zuno functionalities
+Refer to the [Z80SBC64 Function](https://github.com/Plasmode/Z80SBC64) section for a description of the Zuno functionalities
 
 ### Design Information
-- Schematic
-
-- Gerber photoplots
-
-- CPLD equations
+- [Schematic](zuno_03_scm.pdf)
+- [Gerber photoplots](zuno_r03_gerber.zip)
+- [CPLD design](zuno_r03_CPLD_i2c.zip) files
 
 ### Software
 Zuno software is compatible with Z80SBC64.
