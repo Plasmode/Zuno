@@ -1,4 +1,4 @@
-# Interface to 128x64 OLED
+# Interface to 128x64 OLED Display
 ### Introduction
 Zuno's I2C connector can directly interface to the popular 0.96“ 128×64 OLED that's readily available from eBay for 3-4 dollars.
 
