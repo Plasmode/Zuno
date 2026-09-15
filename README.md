@@ -29,15 +29,15 @@ Refer to the [Z80SBC64 Function](https://github.com/Plasmode/Z80SBC64) section f
 - [CPLD design](zuno_r03_CPLD_i2c.zip) files
 
 ### Software
-Zuno software is compatible with Z80SBC64.
+Zuno software is compatible with Z80SBC64.  See [Z80SBC64 Software](https://github.com/Plasmode/Z80SBC64) section.
 
 ### Engineering Change for Rev 0.3 board
-Modify I2C bus connector pin assignment, this is only applicable to rev 0.3 pc board
+[Modify I2C bus connector](Engineering_change_I2C.md) pin assignment, this is only applicable to rev 0.3 pc board
 
 ### Manuals
-Getting Started with Zuno
+[Getting Started](Manuals/Getting_started_with_Zuno.md) with Zuno
 
-Zuno monitor manual is same as Z64Mon, the monitor for Z80SBC64 and Z80MB64
+Zuno monitor manual is same as [Z64Mon](https://github.com/Plasmode/Z80SBC64/blob/main/Manuals/ZMon.md), the monitor for Z80SBC64 and Z80MB64
 
 Loading software into a new DOM
 
