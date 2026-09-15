@@ -46,5 +46,5 @@ Zuno has two expansion ports, I2C and RC2014. External hardware can connect to t
 
 - [Interface to 128×64 OLED display](Projects/interface_to_128x64OLED.md)
 - Interface to [WS2812B pixel addressable RGB LED array](Projects/WS2812B_shield.md)
-- Interface to RC2014 I/O modules
-- Bridge to RC2014 backplane
+- Interface to RC2014 I/O modules <- show picture of LED display on Zuno
+- Bridge to RC2014 backplane <- show the bridge pc board
